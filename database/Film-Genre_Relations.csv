@@ -1,0 +1,263 @@
+film,genre
+The Departed,Crime
+The Departed,Drama
+The Departed,Thriller
+Gold,Adventure
+Gold,Drama
+Gold,Thriller
+Why Him?,Comedy
+Passengers,Adventure
+Passengers,Drama
+Passengers,Romance
+Rogue One,Action
+Rogue One,Adventure
+Rogue One,Sci-Fi
+Top Dog,Drama
+Top Dog,Thriller
+Manchester by the Sea,Drama
+Guardians of the Galaxy,Action
+Guardians of the Galaxy,Adventure
+Guardians of the Galaxy,Sci-Fi
+Star Wars: Episode VII - The Force Awakens,Action
+Star Wars: Episode VII - The Force Awakens,Adventure
+Star Wars: Episode VII - The Force Awakens,Fantasy
+H_idden Figures,Biography
+H_idden Figures,Drama
+H_idden Figures,History
+X-Men: Apocalypse,Action
+X-Men: Apocalypse,Adventure
+X-Men: Apocalypse,Sci-Fi
+Captain America: Civil War,Action
+Captain America: Civil War,Adventure
+Captain America: Civil War,Sci-Fi
+Hacksaw R_idge,Biography
+Hacksaw R_idge,Drama
+Hacksaw R_idge,History
+Res_ident Evil: The Final Chapter,Action
+Res_ident Evil: The Final Chapter,Horror
+Res_ident Evil: The Final Chapter,Sci-Fi
+Moana,Animation
+Moana,Adventure
+Moana,Comedy
+Independence Day: Resurgence,Action
+Independence Day: Resurgence,Adventure
+Independence Day: Resurgence,Sci-Fi
+Arrival,Drama
+Arrival,Mystery
+Arrival,Sci-Fi
+The Dark Knight,Action
+The Dark Knight,Crime
+The Dark Knight,Drama
+Moonlight,Drama
+The Girl on the Train,Crime
+The Girl on the Train,Drama
+The Girl on the Train,Mystery
+Paris pieds nus,Comedy
+The Magnificent Seven,Action
+The Magnificent Seven,Adventure
+The Magnificent Seven,Western
+Interstellar,Adventure
+Interstellar,Drama
+Interstellar,Sci-Fi
+The Secret Life of Pets,Animation
+The Secret Life of Pets,Adventure
+The Secret Life of Pets,Comedy
+Pirates of the Caribbean: On Stranger T_ides,Action
+Pirates of the Caribbean: On Stranger T_ides,Adventure
+Pirates of the Caribbean: On Stranger T_ides,Fantasy
+Sully,Biography
+Sully,Drama
+Bad Moms,Comedy
+The Autopsy of Jane Doe,Horror
+The Autopsy of Jane Doe,Mystery
+The Autopsy of Jane Doe,Thriller
+Jason Bourne,Action
+Jason Bourne,Thriller
+Trolls,Animation
+Trolls,Adventure
+Trolls,Comedy
+Kingsman: The Secret Service,Action
+Kingsman: The Secret Service,Adventure
+Kingsman: The Secret Service,Comedy
+Sing,Animation
+Sing,Comedy
+Sing,Family
+Fifty Shades of Grey,Drama
+Fifty Shades of Grey,Romance
+Fifty Shades of Grey,Thriller
+Underworld: Blood Wars,Action
+Underworld: Blood Wars,Adventure
+Underworld: Blood Wars,Fantasy
+Split,Horror
+Split,Thriller
+Their Finest,Comedy
+Their Finest,Drama
+Their Finest,Romance
+Silence,Adventure
+Silence,Drama
+Silence,History
+Don't Fuck in the Woods,Horror
+Prometheus,Adventure
+Prometheus,Mystery
+Prometheus,Sci-Fi
+Dead Awake,Horror
+Dead Awake,Thriller
+Mother's Day,Comedy
+Mother's Day,Drama
+Deepwater Horizon,Action
+Deepwater Horizon,Drama
+Deepwater Horizon,Thriller
+Patriots Day,Drama
+Patriots Day,History
+Patriots Day,Thriller
+Assassin's Creed,Action
+Assassin's Creed,Adventure
+Assassin's Creed,Drama
+The Last Face,Drama
+Inception,Action
+Inception,Adventure
+Inception,Sci-Fi
+Furious Seven,Action
+Furious Seven,Crime
+Furious Seven,Thriller
+Fantastic Beasts and Where to Find Them,Adventure
+Fantastic Beasts and Where to Find Them,Family
+Fantastic Beasts and Where to Find Them,Fantasy
+John Wick,Action
+John Wick,Crime
+John Wick,Thriller
+Sausage Party,Animation
+Sausage Party,Adventure
+Sausage Party,Comedy
+Miss Sloane,Drama
+Miss Sloane,Thriller
+Collateral Beauty,Drama
+Collateral Beauty,Romance
+La La Land,Comedy
+La La Land,Drama
+La La Land,Music
+The Hateful Eight,Crime
+The Hateful Eight,Drama
+The Hateful Eight,Mystery
+Inglourious Basterds,Adventure
+Inglourious Basterds,Drama
+Inglourious Basterds,War
+Suic_ide Squad,Action
+Suic_ide Squad,Adventure
+Suic_ide Squad,Fantasy
+Mad Max: Fury Road,Action
+Mad Max: Fury Road,Adventure
+Mad Max: Fury Road,Sci-Fi
+The Promise,Drama
+The Promise,History
+A Monster Calls,Drama
+A Monster Calls,Fantasy
+Mindhorn,Comedy
+Ghostbusters,Action
+Ghostbusters,Comedy
+Ghostbusters,Fantasy
+The Wolf of Wall Street,Biography
+The Wolf of Wall Street,Comedy
+The Wolf of Wall Street,Crime
+The Help,Drama
+Zootopia,Animation
+Zootopia,Adventure
+Zootopia,Comedy
+Lowr_iders,Drama
+Pirates of the Caribbean: Dead Man's Chest,Action
+Pirates of the Caribbean: Dead Man's Chest,Adventure
+Pirates of the Caribbean: Dead Man's Chest,Fantasy
+Kimi no na wa,Animation
+Kimi no na wa,Drama
+Kimi no na wa,Fantasy
+Gone Girl,Crime
+Gone Girl,Drama
+Gone Girl,Mystery
+Don't Breathe,Crime
+Don't Breathe,Horror
+Don't Breathe,Thriller
+The Avengers,Action
+The Avengers,Sci-Fi
+Live by Night,Crime
+Live by Night,Drama
+The Lost City of Z,Action
+The Lost City of Z,Adventure
+The Lost City of Z,Biography
+Colossal,Action
+Colossal,Comedy
+Colossal,Drama
+Avatar,Action
+Avatar,Adventure
+Avatar,Fantasy
+Me Before You,Drama
+Me Before You,Romance
+Star Trek Beyond,Action
+Star Trek Beyond,Adventure
+Star Trek Beyond,Sci-Fi
+Deadpool,Action
+Deadpool,Adventure
+Deadpool,Comedy
+The Accountant,Action
+The Accountant,Crime
+The Accountant,Drama
+Hounds of Love,Crime
+Hounds of Love,Drama
+Hounds of Love,Horror
+War Dogs,Comedy
+War Dogs,Crime
+War Dogs,Drama
+Bahubali: The Beginning,Action
+Bahubali: The Beginning,Adventure
+Bahubali: The Beginning,Drama
+Warcraft,Action
+Warcraft,Adventure
+Warcraft,Fantasy
+The Vo_id,Horror
+The Vo_id,Mystery
+The Vo_id,Sci-Fi
+Doctor Strange,Action
+Doctor Strange,Adventure
+Doctor Strange,Fantasy
+The Great Wall,Action
+The Great Wall,Adventure
+The Great Wall,Fantasy
+Lion,Biography
+Lion,Drama
+The Nice Guys,Action
+The Nice Guys,Comedy
+The Nice Guys,Crime
+5- 25- 77,Comedy
+5- 25- 77,Drama
+Allied,Action
+Allied,Drama
+Allied,Romance
+Batman v Superman: Dawn of Justice,Action
+Batman v Superman: Dawn of Justice,Adventure
+Batman v Superman: Dawn of Justice,Sci-Fi
+The Founder,Biography
+The Founder,Drama
+The Founder,History
+The Prestige,Drama
+The Prestige,Mystery
+The Prestige,Sci-Fi
+Pirates of the Caribbean: At World's End,Action
+Pirates of the Caribbean: At World's End,Adventure
+Pirates of the Caribbean: At World's End,Fantasy
+Wakefield,Drama
+Fallen,Adventure
+Fallen,Drama
+Fallen,Fantasy
+Captain Fantastic,Comedy
+Captain Fantastic,Drama
+Prisoners,Crime
+Prisoners,Drama
+Prisoners,Mystery
+Avengers: Age of Ultron,Action
+Avengers: Age of Ultron,Adventure
+Avengers: Age of Ultron,Sci-Fi
+Jurassic World,Action
+Jurassic World,Adventure
+Jurassic World,Sci-Fi
+Personal Shopper,Drama
+Personal Shopper,Mystery
+Personal Shopper,Thriller
