@@ -21,7 +21,7 @@ Avant d'exécuter l'application, assurez-vous d'avoir les prérequis suivants in
 
 ---
 
-## 📚 Technologies utilisées
+## Technologies utilisées
 
 - Python 3.x
 - Streamlit
@@ -36,7 +36,7 @@ Avant d'exécuter l'application, assurez-vous d'avoir les prérequis suivants in
    ```bash
    git clone https://github.com/Habdelli99/nosql-python-app.git
    
-## 🚀 Lancer le projet
+## Lancer le projet
 
 ```bash
 pip install -r requirements.txt
