@@ -40,4 +40,4 @@ Avant d'exécuter l'application, assurez-vous d'avoir les prérequis suivants in
 
 ```bash
 pip install -r requirements.txt
-streamlit run app/main.py
+streamlit run src/main.py
