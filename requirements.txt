@@ -1,0 +1,21 @@
+# Bibliothèques pour MongoDB
+pymongo==3.12.0
+
+# Bibliothèques pour Neo4j
+neo4j==4.4.0
+
+# Pour la gestion des variables d'environnement
+python-dotenv==0.19.2
+
+# Bibliothèques pour les tests
+unittest2==1.1.0
+
+# Pour Streamlit (interface utilisateur)
+streamlit==1.8.0
+
+# Bibliothèques pour la visualisation des données
+matplotlib==3.5.1
+seaborn==0.11.2
+
+# Autres dépendances potentielles (ex : pour le traitement des données)
+pandas==1.4.1
