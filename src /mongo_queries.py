@@ -3,7 +3,7 @@
 from pymongo import MongoClient
 
 # Permet la Connexion à la base MongoDB
-client = MongoClient("mongodb+srv://username:password@cluster.mongodb.net/")
+client = MongoClient("mongodb+srv://habdelli:OzLEJ8wQE16z2Kg2@cluster0.vet9fte.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 db = client.entertainment
 
 def get_top_movies(limit=5):
