@@ -3,7 +3,7 @@
 from neo4j import GraphDatabase
 
 # Permet la Connexion à Neo4j
-driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "password"))
+driver = GraphDatabase.driver("neo4j+s://7835be7a.databases.neo4j.io", auth=("neo4j", "EBn4PEizlekWio5mBYM3A4u-aJSmpyLvwcxKxTzDJNw"))
 
 def get_top_actor():
     """
