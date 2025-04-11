@@ -1,5 +1,5 @@
 # Bibliothèques pour MongoDB
-pymongo==3.12.0
+pymongo==4.6.3
 
 # Bibliothèques pour Neo4j
 neo4j==4.4.0
@@ -14,7 +14,7 @@ unittest2==1.1.0
 streamlit==1.8.0
 
 # Bibliothèques pour la visualisation des données
-matplotlib==3.5.1
+matplotlib==3.8.4
 seaborn==0.11.2
 
 # Autres dépendances potentielles (ex : pour le traitement des données)
